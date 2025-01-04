@@ -56,7 +56,7 @@ http://localhost:8080/h2-console
 
   ## 4. CORS Configuration
 
-CORS has been enabled to allow requests from the Angular frontend (running on `http://localhost:4200`). When the Angular app is ready, it can make API requests to the backend without running into CORS issues.
+CORS has been enabled to allow requests from the Angular frontend . When the Angular app is ready, it can make API requests to the backend without running into CORS issues.
 
 ## Angular Frontend (To Be Implemented)
 
